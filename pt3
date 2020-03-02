@@ -1,0 +1,4 @@
+import datetime
+from datetime import timedelta
+d = timedelta(days=100, hours=10, seconds=600)
+print(d)
